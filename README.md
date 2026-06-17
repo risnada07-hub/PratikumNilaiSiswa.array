@@ -64,7 +64,7 @@
          HASIL PENGOLAHAN NILAI SISWA
 
      Jumlah Siswa    : 30 orang
-     Rata-rata Nilai : 82.50
+     Rata-rata Nilai : 78.63
      Nilai Tertinggi : 97
      Nilai Terendah  : 55
 
